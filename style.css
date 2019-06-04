@@ -2,8 +2,8 @@ header {
   background-color: #f1f1f0;
   height: 25vh;
 }
-.right {
-  float: right;
+.right, .right * {
+  text-align: right;
 }
 .left {
   float: left;
